@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="online_class.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="D_FF_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="D_FF_test_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Full_Adder_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Full_Adder_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Full_Adder_test_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="JK_FF_test_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="JK_FF_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="JK_FF_test_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="JK_FF_test_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX_2_1_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_2_1_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_4_1_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_4_1_case_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX_4_1_case_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="MUX_4_1_case_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_4_1_case_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX_4_1_case_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_4_1_case_test_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_4_1_if_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX_4_1_if_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_4_1_if_test_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX_4_1_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="MUX_4_1_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_4_1_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX_4_1_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_4_1_test_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_4_1_using_2_1_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX_4_1_using_2_1_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_4_1_using_2_1_test_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_test_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Parallel_Adder_4_bit_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Parallel_Adder_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Parallel_Adder_test_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="SR_FF_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SR_FF_test_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="T_FF_test_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1584951322" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1584951322">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1589043892" xil_pn:in_ck="4580774655069010261" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1589043892">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="DEMUX_1_4_case.vhd"/>
+      <outfile xil_pn:name="DEMUX_1_4_case_test.vhd"/>
+      <outfile xil_pn:name="D_FF.vhd"/>
+      <outfile xil_pn:name="D_FF_test.vhd"/>
+      <outfile xil_pn:name="Full_Adder.vhd"/>
+      <outfile xil_pn:name="Full_Adder_test.vhd"/>
+      <outfile xil_pn:name="Half_Adder.vhd"/>
+      <outfile xil_pn:name="JK_FF.vhd"/>
+      <outfile xil_pn:name="JK_FF_test.vhd"/>
+      <outfile xil_pn:name="MUX_2_1.vhd"/>
+      <outfile xil_pn:name="MUX_4_1.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_case.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_case_test.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_if.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_if_test.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_test.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_using_2_1.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_using_2_1_test.vhd"/>
+      <outfile xil_pn:name="MUX_test.vhd"/>
+      <outfile xil_pn:name="OR_gate.vhd"/>
+      <outfile xil_pn:name="Parallel_Adder_4_bit.vhd"/>
+      <outfile xil_pn:name="Parallel_Adder_test.vhd"/>
+      <outfile xil_pn:name="SR_FF.vhd"/>
+      <outfile xil_pn:name="SR_FF_test.vhd"/>
+      <outfile xil_pn:name="T_FF.vhd"/>
+      <outfile xil_pn:name="T_FF_test.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1589043592" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-3185814603791276321" xil_pn:start_ts="1589043592">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1589043592" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="567166848382449533" xil_pn:start_ts="1589043592">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1586167784" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="4351117347683875920" xil_pn:start_ts="1586167784">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1589043592" xil_pn:in_ck="-1617288713941899656" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1589043592">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="InputAdded"/>
+      <outfile xil_pn:name="DEMUX_1_4_case.vhd"/>
+      <outfile xil_pn:name="DEMUX_1_4_case_test.vhd"/>
+      <outfile xil_pn:name="D_FF.vhd"/>
+      <outfile xil_pn:name="D_FF_test.vhd"/>
+      <outfile xil_pn:name="Full_Adder.vhd"/>
+      <outfile xil_pn:name="Full_Adder_test.vhd"/>
+      <outfile xil_pn:name="Half_Adder.vhd"/>
+      <outfile xil_pn:name="JK_FF.vhd"/>
+      <outfile xil_pn:name="JK_FF_test.vhd"/>
+      <outfile xil_pn:name="MUX_2_1.vhd"/>
+      <outfile xil_pn:name="MUX_4_1.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_case.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_case_test.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_if.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_if_test.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_test.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_using_2_1.vhd"/>
+      <outfile xil_pn:name="MUX_4_1_using_2_1_test.vhd"/>
+      <outfile xil_pn:name="MUX_test.vhd"/>
+      <outfile xil_pn:name="OR_gate.vhd"/>
+      <outfile xil_pn:name="Parallel_Adder_4_bit.vhd"/>
+      <outfile xil_pn:name="Parallel_Adder_test.vhd"/>
+      <outfile xil_pn:name="SR_FF.vhd"/>
+      <outfile xil_pn:name="SR_FF_test.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1589043594" xil_pn:in_ck="-1617288713941899656" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="6221656579049353764" xil_pn:start_ts="1589043592">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="JK_FF_test_beh.prj"/>
+      <outfile xil_pn:name="JK_FF_test_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1589043595" xil_pn:in_ck="2089623988013199395" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="3643276795453825863" xil_pn:start_ts="1589043594">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="JK_FF_test_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+  </transforms>
+
+</generated_project>

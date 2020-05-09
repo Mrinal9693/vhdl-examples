@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/nibba/Xilinx/online_class/T_FF_test_isim_beh.exe" -prj "/home/nibba/Xilinx/online_class/T_FF_test_beh.prj" "work.T_FF_test" 
